@@ -1,0 +1,37 @@
+---
+layout: page
+---
+<!-- pages/people.md -->
+<div class="projects">
+{% if page.display_categories %}
+  <!-- Display categorized people -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_people = page.people | where: "category", category %}
+  {% assign nb_people = categorized_people | size %}
+{% assign sorted_people = categorized_people | sample: nb_people |  sort: "priority" %}
+  <!-- Generate cards for each person -->
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for person in sorted_people %}
+      {% include person.liquid %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+{% else %}
+
+<!-- Display people without categories -->
+
+{% assign nb_people = page.people | size %}
+{% assign sorted_people = page.people | sample: nb_people |  sort_by: "priority" %}
+
+  <!-- Generate cards for each person -->
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for person in sorted_people %}
+      {% include person.liquid %}
+    {% endfor %}
+  </div>
+{% endif %}
+</div>

@@ -2,24 +2,62 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: a research group in the <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">school of computer science and engineering</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: petersen.png
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+map: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+> In mathematics and computer science, an algorithm is a step-by-step procedure for calculations. Algorithms are used for calculation, data processing, and automated reasoning.  
+> -- <cite>[Wikipedia on Algorithms][1]</cite>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[1]: https://en.wikipedia.org/wiki/Algorithm
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+The algorithms group brings together academics at [UNSW](http://www.unsw.edu.au) with research interests in algorithms and complexity. It is hosted by the <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">school of computer science and engineering</a> and includes external members from the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths).
+
+
+Algorithms are at the heart of all information processing. We design and analyse algorithms in terms of resource requirements (time, space, randomness) and we study their limitations. Research in this field emphasizes mathematical technique and rigor.
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          151.2311459931973,
+          -33.91893313456135
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          151.2305951353199,
+          -33.917987567624884
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
+```  
+  
