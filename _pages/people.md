@@ -55,7 +55,7 @@ people:
     category: members
     priority: 2
     img: assets/img/aleks.jpg
-    url: http://www.cse.unsw.com/~ignjat/
+    url: https://www.unsw.edu.au/staff/aleksandar-ignjatovic
     description: signal processing; mathematical logic; algorithms for embedded systems
   - name: Anita Liebenau
     category: affiliates
