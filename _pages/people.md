@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: of the algorithms group
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [members, affiliates, former members]
 
 people:
@@ -75,6 +75,12 @@ people:
     img: assets/img/simon.jpg
     url: https://scholar.google.com/citations?hl=en&user=cBUn3E8AAAAJ
     description: computational social choice; resource allocation; computational complexity
+  - name: Shivika Narang
+    category: members
+    priority: 3
+    img: assets/img/shivika.jpg
+    url: https://sites.google.com/view/shivikanarang/
+    description: fairness and efficiency in matchings and allocations
   - name: Fahimeh Ramezani
     category: former members
     priority: 3

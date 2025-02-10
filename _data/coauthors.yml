@@ -1,3 +1,99 @@
+"aziz":
+  - firstname: ["Haris", "H."]
+    url: https://sites.google.com/site/harisaziz/
+
+"clinch":
+  - firstname: ["Katie", "K."]
+    url: https://www.unsw.edu.au/staff/katie-clinch
+
+"gaspers":
+  - firstname: ["Serge", "S."]
+    url: https://serggasp.github.io
+
+"greenhill":
+  - firstname: ["Catherine", "C.", "Catherine S.", "C. S."]
+    url: https://web.maths.unsw.edu.au/~csg/
+
+"harvey":
+  - firstname: ["David", "D."]
+    url: http://web.maths.unsw.edu.au/~davidharvey/
+
+"huang":
+  - firstname: ["Shenwei", "S."]
+    url: https://dblp.org/pid/32/9213.html
+
+"hunter":
+  - firstname: ["Paul", "P."]
+    url: https://www.unsw.edu.au/staff/paul-hunter
+
+"ignjatovic":
+  - firstname: ["Aleksandar", "A."]
+    url: https://www.unsw.edu.au/staff/aleksandar-ignjatovic
+
+"lam":
+  - firstname: ["Alexander", "A."]
+    url: https://sites.google.com/view/alexanderlam/
+
+"lambilliotte":
+  - firstname: ["Antonin", "A."]
+    url: https://dblp.org/pid/199/1788.html
+
+"lee":
+  - firstname: ["Edward", "E.", "Edward J.", "E. J."]
+    url: https://dblp.org/pid/202/9999.html
+
+"li":
+  - firstname: ["Jerry", "J.", "Jerry Zirui", "Jerry Z.", "J. Z.", "Zirui"]
+    url: https://dblp.org/pid/361/0149.html
+
+"liebenau":
+  - firstname: ["Anita", "A."]
+    url: https://sites.google.com/site/aliebenau/
+
+"lu":
+  - firstname: ["Xinhang", "X."]
+    url: http://luxinhang.com/
+
+"mackenzie":
+  - firstname: ["Simon", "S."]
+    url: https://scholar.google.com.au/citations?user=cBUn3E8AAAAJ&hl=en
+
+"narang":
+  - firstname: ["Shivika", "S."]
+    url: https://sites.google.com/view/shivikanarang/
+
+"narodytska":
+  - firstname: ["Nina", "N."]
+    url: https://narodytska.com/
+
+"ruj":
+  - firstname: ["Sushmita", "S."]
+    url: https://www.unsw.edu.au/staff/sushmita-ruj
+
+"rummele":
+  - firstname: ["Stefan", "S."]
+    url: https://dblp.org/pid/86/5471.html
+
+"saffidine":
+  - firstname: ["Abdallah", "A."]
+    url: https://dblp.org/pid/99/7599.html
+
+"shparlinski":
+  - firstname: ["Igor", "Igor E.", "I.", "I. E."]
+    url: https://web.maths.unsw.edu.au/~igorshparlinski/
+
+"suzuki":
+  - firstname: ["Mashbat", "M."]
+    url: https://www.mashsuzuki.com/
+
+"vollen":
+  - firstname: ["Jeremy", "J."]
+    url: https://j-vollen.github.io/
+
+"walsh":
+  - firstname: ["Toby", "T."]
+    url: https://cgi.cse.unsw.edu.au/~tw/
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

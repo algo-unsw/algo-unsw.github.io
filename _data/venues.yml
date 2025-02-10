@@ -1,6 +1,50 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Algorithmica":
+  url: https://link.springer.com/journal/453
+  color: "#ff3636"
+
+"Ann. of Math.":
+  url: https://projecteuclid.org/journals/annals-of-mathematics/
+  color: "#ff3636"
+
+"Ency Crypto":
+  url: https://link.springer.com/referencework/10.1007/978-3-030-71522-9
+  color: "#2698ba"
+
+"Handbook CSP":
+  url: https://www.sciencedirect.com/science/bookseries/15746526/2
+  color: "#2698ba"
+
+"Handbook SAT":
+  url: http://dx.doi.org/10.3233/FAIA336
+  color: "#2698ba"
+
+"IEEE TMC":
+  url: https://www.computer.org/csdl/journal/tm
+  color: "#ff3636"
+
+"J. ACM":
+  url: https://dl.acm.org/journal/jacm
+  color: "#ff3636"
+
+"JAIR":
+  url: https://www.jair.org/
+  color: "#ff3636"
+
+"JCSS":
+  url: https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences
+  color: "#ff3636"
+
+"JCTB":
+  url: https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-b
+  color: "#ff3636"
+
+"JEMS":
+  url: https://ems.press/journals/jems
+  color: "#ff3636"
+
+"Math. Soc. Sci.":
+  url: https://www.sciencedirect.com/journal/mathematical-social-sciences
+  color: "#ff3636"
 
 "PhysRev":
   url: https://journals.aps.org/

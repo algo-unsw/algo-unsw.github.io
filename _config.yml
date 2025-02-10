@@ -156,7 +156,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -208,7 +208,7 @@ exclude:
   - _pages/cv.md
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _pages/projects.md
+#  - _pages/projects.md
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
@@ -336,11 +336,13 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    dimensions,
     google_scholar_id,
     html,
     inspirehep_id,
     pdf,
     poster,
+    preprint,
     preview,
     selected,
     slides,
