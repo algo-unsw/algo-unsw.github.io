@@ -16,8 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "a selection of our research areas",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "news-sushmita-ruj-joins-the-algorithms-group",
           title: 'Sushmita Ruj joins the algorithms group',
+          description: "",
+          section: "News",},{id: "news-sparkles-congratulations-to-katie-on-her-soda-2025-paper-sayan-bandyapadhyay-katie-clinch-william-lochet-daniel-lokshtanov-saket-saurabh-jie-xue-ptases-for-euclidean-tsp-with-unit-disk-and-unit-square-neighborhoods-sparkles",
+          title: ':sparkles: Congratulations to Katie on her SODA 2025 paper Sayan Bandyapadhyay, Katie Clinch,...',
           description: "",
           section: "News",},{id: "news-some-of-us-attended-isaac-2024-in-sydney-and-the-preceding-australasian-summer-school-recent-trends-in-algorithms",
           title: 'Some of us attended ISAAC 2024 in Sydney, and the preceding Australasian Summer...',
@@ -25,51 +35,57 @@ ninja.data = [{
           section: "News",},{id: "news-sparkles-congratulations-to-ayda-for-obtaining-a-phd-sparkles",
           title: ':sparkles: Congratulations to Ayda for obtaining a PhD :sparkles:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-shivika-narang-joins-the-algorithms-group",
+          title: 'Shivika Narang joins the algorithms group',
+          description: "",
+          section: "News",},{id: "news-sparkles-congratulations-to-simon-and-abdallah-on-their-stoc-2025-paper-refuting-the-direct-sum-conjecture-for-total-functions-in-deterministic-communication-complexity-sparkles",
+          title: ':sparkles: Congratulations to Simon and Abdallah on their STOC 2025 paper Refuting the...',
+          description: "",
+          section: "News",},{id: "projects-approximation-algorithms",
+          title: 'approximation algorithms',
+          description: "when perfect is the enemy of good",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/approx/";
+            },},{id: "projects-computational-social-choice",
+          title: 'computational social choice',
+          description: "when you care about fairness, representation, collective decision making, and incentives",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/comsoc/";
+            },},{id: "projects-exponential-time-algorithms",
+          title: 'exponential time algorithms',
+          description: "when you want to beat brute-force for intractable problems",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/exp/";
+            },},{id: "projects-parameterized-complexity",
+          title: 'parameterized complexity',
+          description: "when you know more about the instances than just their size",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/fpt/";
+            },},{id: "projects-graph-algorithms",
+          title: 'graph algorithms',
+          description: "when you need to deal with pairwise relations",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/graphs/";
+            },},{id: "projects-computational-number-theory-and-cryptography",
+          title: 'computational number theory and cryptography',
+          description: "when you want to manipulate numbers and hide secrets",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/numbers/";
+            },},{id: "projects-optimisation",
+          title: 'optimisation',
+          description: "when you just want what&#39;s best",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/opt/";
+            },},{id: "projects-quantum-algorithms",
+          title: 'quantum algorithms',
+          description: "when you want speedups using quantum weirdness",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/quantum/";
+            },},{id: "projects-random-graphs-and-algorithms",
+          title: 'random graphs and algorithms',
+          description: "when you want to know what to expect",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/random/";
             },},{
         id: 'social-email',
         title: 'email',
