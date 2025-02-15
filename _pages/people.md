@@ -316,5 +316,3 @@ people:
     description: 2022
     url: https://research.google/people/prabhakarraghavan/
 ---
-
-

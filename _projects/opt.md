@@ -13,6 +13,7 @@ We focus on several areas in discrete optimisation. Our work includes algorithms
 - [MiniZinc](https://www.minizinc.org/)
 
 ### selected papers
+
 <div class="publications">
   {% bibliography --file opt --group_by none %}
 </div>

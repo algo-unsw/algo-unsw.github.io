@@ -208,7 +208,7 @@ exclude:
   - _pages/cv.md
   - _pages/dropdown.md
   - _pages/profiles.md
-#  - _pages/projects.md
+  #  - _pages/projects.md
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md

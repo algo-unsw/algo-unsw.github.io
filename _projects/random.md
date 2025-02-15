@@ -13,7 +13,7 @@ This informs on typical properties of graph families, and running time analyses 
 - [Combinatorial Mathematics Society of Australasia](http://combinatorics-australasia.org/)
 
 ### selected papers
+
 <div class="publications">
   {% bibliography --file random --group_by none %}
 </div>
-

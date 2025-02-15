@@ -12,7 +12,7 @@ This focus area studies algorithmic and computational aspects of combining indiv
 - [Number Theory Web](http://www.numbertheory.org)
 
 ### selected papers
+
 <div class="publications">
   {% bibliography --file numbers --group_by none %}
 </div>
-

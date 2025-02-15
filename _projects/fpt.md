@@ -13,7 +13,7 @@ An important focus of our group is _multivariate complexity_ analysis and algori
 - [Wikipedia](https://en.wikipedia.org/wiki/Parameterized_complexity)
 
 ### selected papers
+
 <div class="publications">
   {% bibliography --file fpt --group_by none %}
 </div>
-

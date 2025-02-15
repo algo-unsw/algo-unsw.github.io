@@ -6,13 +6,8 @@ img: assets/img/petersen.png
 importance: 9
 ---
 
-
-
-
-
-
 ### selected papers
+
 <div class="publications">
   {% bibliography --file graphs --group_by none %}
 </div>
-
