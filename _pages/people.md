@@ -172,112 +172,112 @@ people:
 
   - name: Ágnes Cseh
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2019
     url: https://sites.google.com/site/csehagnes88
   - name: Simon Rey
     category: selected visitors
-    priority: 4
+    priority: 5
     description: 2019
     url: https://simonrey.fr
   - name: Dorothea Baumeister
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2018
     url: https://sites.google.com/view/dorothea-baumeister
   - name: Martin Hoefer
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2018
     url: https://algo.rwth-aachen.de/team/hoefer/index.en.shtml
   - name: Ayumi Igarashi
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2018
     url: https://sites.google.com/site/eigarashayumi/
   - name: Xin Huang
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2018
     url: https://sites.google.com/view/xinhuang
   - name: Ahuva Mu'alem
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2017
     url: https://sites.google.com/site/ahuvamualem/
   - name: Lirong Xia
     category: selected visitors
-    priority: 1
+    priority: 2
     description: 2017
     url: https://people.cs.rutgers.edu/~lirong.xia/
   - name: Mathias Weller
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2014, 2017
     url: https://igm.univ-mlv.fr/~mweller/
   - name: Iyad Rahwan
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2017
     url: https://www.rahwan.me/
   - name: Luke Mathieson
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2016
     url: https://profiles.uts.edu.au/Luke.Mathieson
   - name: Enrico Gerding
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2016
     url: https://www.southampton.ac.uk/people/5x2dnl/professor-enrico-gerding
   - name: Ronald de Haan
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2016
     url: https://staff.science.uva.nl/r.dehaan/
   - name: Péter Biró
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2016
     url: https://kti.krtk.hu/en/researchers/peter-biro/
   - name: Marc Demange
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2015
     url: https://academics.rmit.edu.au/marc-demange/
   - name: Hubert Chan
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2015
     url: https://i.cs.hku.hk/~hubert/
   - name: Pål Grønås Drange
     category: selected visitors
-    priority: 2
+    priority: 4
     description: 2015
     url: https://www4.uib.no/en/find-employees/P%C3%A5l.Gr%C3%B8n%C3%A5s.Drange
   - name: Omer Lev
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2015
     url: https://tzin.bgu.ac.il/~omerlev/
   - name: Milind Tambe
     category: selected visitors
-    priority: 1
+    priority: 2
     description: 2015
     url: https://teamcore.seas.harvard.edu/tambe/
   - name: Peter Shaw
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2014, 2015
     url: http://ojlab.cn/list_26/663.html
   - name: Kevin Leyton-Brown
     category: selected visitors
-    priority: 1
+    priority: 2
     description: 2014
     url: https://www.cs.ubc.ca/~kevinlb/
   - name: Gabor Erdelyi
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2014
     url: https://profiles.canterbury.ac.nz/Gabor-Erdelyi
   - name: Mike Fellows
@@ -287,12 +287,12 @@ people:
     url: https://mike-fellows.net/
   - name: Frances A. Rosamond
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2014, 2024
     url: https://en.wikipedia.org/wiki/Frances_A._Rosamond
   - name: Ljiljana Brankovic
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2013
     url: https://www.une.edu.au/staff-profiles/science-and-technology/ljiljana-brankovic
   - name: Martin Charles Golumbic
@@ -302,12 +302,12 @@ people:
     url: https://www.cs.haifa.ac.il/~golumbic/
   - name: Ahad N. Zehmakan
     category: selected visitors
-    priority: 3
+    priority: 4
     description: 2024
     url: https://sites.google.com/view/ahadnzehmakan
   - name: Tony Huynh
     category: selected visitors
-    priority: 2
+    priority: 3
     description: 2023
     url: https://sites.google.com/site/matroidintersection/
   - name: Prabhakar Raghavan

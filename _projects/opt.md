@@ -8,7 +8,7 @@ importance: 3
 
 We focus on several areas in discrete optimisation. Our work includes algorithms for graph coloring, constraint satisfaction, global constraints, scheduling, and Satisfiability.
 
-- [Global Constraint Catalog](http://www.emn.fr/z-info/sdemasse/gccat/)
+- [Global Constraint Catalog](https://sofdem.github.io/gccat/)
 - [SAT Live!](http://www.satlive.org)
 - [MiniZinc](https://www.minizinc.org/)
 
