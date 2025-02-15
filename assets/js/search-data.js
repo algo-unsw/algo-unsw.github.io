@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-some-of-us-attended-isaac-2024-in-sydney-and-the-preceding-australasian-summer-school-recent-trends-in-algorithms",
           title: 'Some of us attended ISAAC 2024 in Sydney, and the preceding Australasian Summer...',
           description: "",
+          section: "News",},{id: "news-sparkles-congratulations-to-haris-aziz-and-david-harvey-for-their-promotion-to-professor-sparkles-sparkles-congratulations-to-sushmita-ruj-for-her-promotion-to-associate-professor-sparkles",
+          title: ':sparkles: Congratulations to Haris Aziz and David Harvey for their promotion to Professor....',
+          description: "",
           section: "News",},{id: "news-sparkles-congratulations-to-ayda-for-obtaining-a-phd-sparkles",
           title: ':sparkles: Congratulations to Ayda for obtaining a PhD :sparkles:',
           description: "",
@@ -66,8 +69,8 @@ ninja.data = [{
           description: "when you need to deal with pairwise relations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/graphs/";
-            },},{id: "projects-computational-number-theory-and-cryptography",
-          title: 'computational number theory and cryptography',
+            },},{id: "projects-algorithmic-number-theory-and-cryptography",
+          title: 'algorithmic number theory and cryptography',
           description: "when you want to manipulate numbers and hide secrets",
           section: "Projects",handler: () => {
               window.location.href = "/projects/numbers/";
