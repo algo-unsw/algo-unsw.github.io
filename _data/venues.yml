@@ -6,6 +6,10 @@
   url: https://projecteuclid.org/journals/annals-of-mathematics/
   color: "#ff3636"
 
+"arXiv":
+  url: https://projecteuclid.org/journals/annals-of-mathematics/
+  color: "#909090"
+
 "Ency Crypto":
   url: https://link.springer.com/referencework/10.1007/978-3-030-71522-9
   color: "#2698ba"
