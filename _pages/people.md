@@ -22,11 +22,11 @@ people:
     url: https://sites.google.com/site/harisaziz/
     description: algorithmic game theory; computational social choice
   - name: Katie Clinch
-    category: members
-    priority: 3
-    img: assets/img/katie.jpg
+    category: former members
+    priority: 4
+    # img: assets/img/katie.jpg
     url: https://www.unsw.edu.au/staff/katie-clinch
-    description: graph theory; matroids; rigidity theory
+    # description: graph theory; matroids; rigidity theory
   - name: Raveen De Silva
     category: members
     priority: 3
@@ -65,22 +65,28 @@ people:
     description: extremal and probabilistic combinatorics; positional games; asymptotic enumeration; Ramsey theory
   - name: Xinhang Lu
     category: members
-    priority: 3
+    priority: 4
     img: assets/img/xinhang.jpg
     url: http://luxinhang.com/
     description: fairness in algorithmic decision-making, mechanism design
   - name: Simon Mackenzie
     category: members
-    priority: 3
+    priority: 4
     img: assets/img/simon.jpg
     url: https://scholar.google.com/citations?hl=en&user=cBUn3E8AAAAJ
     description: computational social choice; resource allocation; computational complexity
   - name: Shivika Narang
     category: members
-    priority: 3
+    priority: 4
     img: assets/img/shivika.jpg
     url: https://sites.google.com/view/shivikanarang/
     description: fairness and efficiency in matchings and allocations
+  - name: Youming Qiao
+    category: members
+    priority: 2
+    img: assets/img/youming.jpg
+    url: https://sites.google.com/site/jimmyqiao86/
+    description: computational complexity; algebraic computation; cryptography; quantum information and computation; group theory
   - name: Fahimeh Ramezani
     category: former members
     priority: 3
@@ -101,7 +107,7 @@ people:
     description: algorithmic number theory; cryptography
   - name: Mashbat Suzuki
     category: members
-    priority: 3
+    priority: 4
     img: assets/img/mashbat.jpg
     url: https://www.mashsuzuki.com
     description: algorithmic game theory; optimization; randomized algorithms

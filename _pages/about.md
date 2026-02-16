@@ -26,7 +26,7 @@ map: true
 
 The algorithms group brings together academics at [UNSW](http://www.unsw.edu.au) with research interests in algorithms and complexity. It is hosted by the <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering">school of computer science and engineering</a> and includes external members from the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths).
 
-Algorithms are at the heart of all information processing. We design and analyse algorithms in terms of resource requirements (time, space, randomness) and we study their limitations. Research in this field emphasizes mathematical technique and rigor.
+Algorithms are at the heart of all information processing. We design and analyse algorithms in terms of resource requirements (time, space, randomness) and we study their limitations. Research in this field emphasises mathematical technique and rigour.
 
 <!--
 ```geojson
