@@ -9,7 +9,7 @@ importance: 6
 In exponential time algorithms, we design and analyse algorithms for computationally intractable (typically NP-hard) problems.
 The aim is to reduce the running time to a _moderately_ exponential function.
 
-- [Exact Exponential Algorithms textbook](https://folk.uib.no/nmiff/BookEA/)
+- [Exact Exponential Algorithms textbook](https://fedorvf.github.io/BookEA/)
 - [Open Problem Garden on exponential time algorithms](http://garden.irmacs.sfu.ca/category/exponential_time_algorithm)
 
 ### selected papers

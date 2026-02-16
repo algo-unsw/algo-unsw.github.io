@@ -25,7 +25,7 @@ people:
     category: former members
     priority: 4
     # img: assets/img/katie.jpg
-    url: https://www.unsw.edu.au/staff/katie-clinch
+    url: https://smp.uq.edu.au/profile/17423/katie-clinch
     # description: graph theory; matroids; rigidity theory
   - name: Raveen De Silva
     category: members
@@ -67,7 +67,7 @@ people:
     category: members
     priority: 4
     img: assets/img/xinhang.jpg
-    url: http://luxinhang.com/
+    url: http://xinhang.lu/
     description: fairness in algorithmic decision-making, mechanism design
   - name: Simon Mackenzie
     category: members
@@ -220,7 +220,7 @@ people:
     category: selected visitors
     priority: 4
     description: 2014, 2017
-    url: https://igm.univ-mlv.fr/~mweller/
+    url: http://igm.univ-mlv.fr/~mweller/
   - name: Iyad Rahwan
     category: selected visitors
     priority: 3
